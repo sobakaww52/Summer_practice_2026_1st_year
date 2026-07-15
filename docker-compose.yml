@@ -1,0 +1,6 @@
+service:
+    db:
+      image: postgres:16
+      contanier_name: postgres_db
+      restart: always
+      
