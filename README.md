@@ -36,5 +36,5 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/sobakaww52/Summer-practice-2026-1st-year-.git
+git clone https://github.com/sobakaww52/Summer_practice_2026_1st_year.git
 cd epl-data-analytics
